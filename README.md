@@ -1,1 +1,1 @@
-# hangmangame
+# week-3-game
